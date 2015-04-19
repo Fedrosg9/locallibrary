@@ -9,8 +9,7 @@ package entity;
  *
  * @author synchris
  */
-public class Author {
+public class Publisher {
     private int id;
-    private String FName;
-    private String LName;
+    private String Name;
 }

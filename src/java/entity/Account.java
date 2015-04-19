@@ -10,5 +10,7 @@ package entity;
  * @author synchris
  */
 public class Account {
-    
+    private int id;
+    private int MemberId;
+    private int Credits;
 }
