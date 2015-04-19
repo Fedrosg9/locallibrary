@@ -12,6 +12,7 @@ import java.util.ArrayList;
  * @author synchris
  */
 public class MemberCtl {
+    
     //manager functions
     public ArrayList<entity.Member> List()
     {

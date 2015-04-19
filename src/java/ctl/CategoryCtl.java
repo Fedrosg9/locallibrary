@@ -5,23 +5,31 @@
  */
 package ctl;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author synchris
  */
 public class CategoryCtl {
     //manager functions
-    public entity.Book Add(entity.Book b)
+    public entity.Category Add(entity.Category b)
     {
         return null;
     }
     
-    public boolean Del(entity.Book b)
+    public boolean Del(entity.Category b)
     {
         return false;
     }
     
-    public entity.Book Edit(entity.Book b)
+    public entity.Category Edit(entity.Category b)
+    {
+        return null;
+    }
+    
+        //user functions
+    public ArrayList<entity.Category> List()
     {
         return null;
     }
