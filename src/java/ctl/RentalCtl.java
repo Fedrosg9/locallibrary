@@ -9,6 +9,6 @@ package ctl;
  *
  * @author synchris
  */
-public class RentalSys {
+public class RentalCtl {
     
 }
