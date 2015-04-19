@@ -10,5 +10,19 @@ package ctl;
  * @author synchris
  */
 public class CategoryCtl {
+    //manager functions
+    public entity.Book Add(entity.Book b)
+    {
+        return null;
+    }
     
+    public boolean Del(entity.Book b)
+    {
+        return false;
+    }
+    
+    public entity.Book Edit(entity.Book b)
+    {
+        return null;
+    }
 }

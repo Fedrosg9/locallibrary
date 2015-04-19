@@ -10,6 +10,7 @@ package ctl;
  * @author synchris
  */
 public class AuthorCtl {
+    //manager functions
     public entity.Author Add(entity.Author a)
     {
         return null;

@@ -12,11 +12,7 @@ import java.util.ArrayList;
  * @author synchris
  */
 public class PublisherCtl {
-        public ArrayList<entity.Publisher> List()
-    {
-        return null;
-    }
-    
+    //manager functions
     public entity.Publisher Add(entity.Publisher p)
     {
         return null;
@@ -28,6 +24,12 @@ public class PublisherCtl {
     }
     
     public entity.Publisher Edit(entity.Publisher p)
+    {
+        return null;
+    }
+    
+    //user functions
+    public ArrayList<entity.Publisher> List()
     {
         return null;
     }

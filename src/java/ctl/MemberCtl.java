@@ -12,6 +12,7 @@ import java.util.ArrayList;
  * @author synchris
  */
 public class MemberCtl {
+    //manager functions
     public ArrayList<entity.Member> List()
     {
         return null;
@@ -32,6 +33,7 @@ public class MemberCtl {
         return null;
     }
     
+    //user functions
     public entity.Member Login(String usr, String pwd)
     {
         return null;
